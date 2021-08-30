@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+.App {
+  font-family: Montserrat;
+  font-weight: 600;
+  text-align: center;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Open sans, sans-serif;
+  height: 100vh;
+  background: #f1f1f1;
+}
